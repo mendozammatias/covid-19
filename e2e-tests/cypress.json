@@ -1,0 +1,19 @@
+{
+  "env": {
+    "baseURL": "http://localhost:3000/",
+    "prodURL": ""
+  },
+  "reporter": "mochawesome",
+  "reporterOptiones": {
+    "reporterDir": "cypress/results",
+    "overwrite": false,
+    "html": false,
+    "json": true,
+    "timestamp": "mmddyyyy_HHMMss"
+  },
+  "viewportWidth": 1240,
+  "viewportHeight": 1000,
+  "integrationFolder": "cypress/integration/tests",
+  "testFiles": "*.spec.js",
+  "chromeWebSecurity": false
+}

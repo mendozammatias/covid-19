@@ -1,0 +1,23 @@
+image: node:latest
+
+variables:
+  PUBLIC_URL: '.'
+
+pages:
+  script:
+    - npm i
+    - npm run build
+    - rm -rf public
+    - mkdir public
+    - mv build/* public
+    - cp public/index.html public/404.html
+    - gzip -k -6 -r public/static/js
+    - gzip -k -6 -r public/static/media
+  artifacts:
+    paths:
+      - public
+  cache:
+    paths:
+      - node_modules
+  only:
+    - master

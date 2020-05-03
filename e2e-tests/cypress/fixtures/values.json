@@ -1,0 +1,13 @@
+{
+  "diagnostic": {
+    "message": "El distanciamiento social es fundamental para cuidarte y cuidar a los demás. Por eso te pedimos que te quedes en casa. Ante cualquier síntoma compatible con el coronavirus Covid-19 comunicate al:",
+    "phone": "0800-222-1002",
+    "link": "https://www.argentina.gob.ar/salud/coronavirus-COVID-19",
+    "button": "Hacer Nuevo Test"
+  },
+  "quarantine": {
+    "title": "Aislamiento domiciliario",
+    "message": "Realice un automonitoreo de temperatura y síntomas y, en caso de desarrollar falta de aire, consultar inmediatamente.",
+    "button": "Hacer Nuevo Test"
+  }
+}

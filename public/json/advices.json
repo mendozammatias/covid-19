@@ -1,0 +1,184 @@
+{
+    "noticias":[
+       {
+          "id":"1",
+          "titulo":"Salud refuerza la distribuciÃ³n de insumos con destino a hospitales nacionales",
+          "Bajada":"El Ministerio de Salud de la NaciÃ³n impulsÃ³ el funcionamiento de un operativo de abastecimiento de insumos con destino a los hospitales nacionales, desplegado desde la sede de la DirecciÃ³n Nacional de Emergencias Sanitarias (DINESA).",
+          "Fecha":"22/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/salud-refuerza-la-distribucion-de-insumos-con-destino-hospitales-nacionales",
+          "thumbnail":"http://www.argentina.gob.ar/sites/default/files/styles/listado/public/2020-03-22_distribucion-insumos-dinesa.png"
+       },
+       {
+          "id":"2",
+          "titulo":"Se modificÃ³ la definiciÃ³n de caso sospechoso",
+          "Bajada":"Esta maÃ±ana, las autoridades del ministerio de Salud de la NaciÃ³n informaron acerca de la situaciÃ³n en nuestro paÃ­s y repasaron las definiciones de conceptos acerca de los casos del COVID-19.",
+          "Fecha":"22/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/se-modifico-la-definicion-de-caso-sospechoso",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/styles/listado/public/2020-03-22_modificacion-caso-sospechoso.png"
+       },
+       {
+          "id":"3",
+          "titulo":"La importancia del cuidado de la salud mental en situaciones de aislamiento",
+          "Bajada":"Los especialistas del Ministerio de Salud de la NaciÃ³n plantean la necesidad de no tener miedo de expresar las emociones de ansiedad, miedo, angustia que suelen generar estas situaciones. AdemÃ¡s recomiendan distintas estrategias para paliar los efectos del aislamiento en la salud mental.",
+          "Fecha":"21/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/la-importancia-del-cuidado-de-la-salud-mental-en-situaciones-de-aislamiento",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/styles/listado/public/20-03-20_anciana_telefono_0.jpg"
+       },
+       {
+          "id":"4",
+          "titulo":"El Estado tomÃ³ la decisiÃ³n de hacer todo lo posible para que las medidas se cumplan",
+          "Bajada":"En el transcurso de la maÃ±ana, autoridades sanitarias brindaron en detalle la situaciÃ³n sobre el COVID-19 y reforzaron los cuidados que la poblaciÃ³n debe tener en el transcurso de la cuarentena en nuestro paÃ­s.",
+          "Fecha":"21/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/el-estado-tomo-la-decision-de-hacer-todo-lo-posible-para-que-las-medidas-se-cumpla",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/styles/listado/public/img_013600.jpg"
+       },
+       {
+          "id":"5",
+          "titulo":"ANLIS avanza en la descentralizaciÃ³n de la detecciÃ³n diagnÃ³stica del nuevo coronavirus",
+          "Bajada":"Salud comenzÃ³ con la distribuciÃ³n progresiva de determinaciones para diagnÃ³stico del virus SARS-CoV-2 a las jurisdicciones. Hoy se estÃ¡ llevando a cabo la capacitaciÃ³n a las instituciones que integran la red nacional de laboratorios.",
+          "Fecha":"20/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/anlis-avanza-en-la-descentralizacion-de-la-deteccion-diagnostica-del-nuevo-coronavirus",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/20-03-20_anlis_1.jpg"
+       },
+       {
+          "id":"6",
+          "titulo":"Santiago Cafiero, GinÃ©s GonzÃ¡lez GarcÃ­a y Wado de Pedro visitaron sala de situaciÃ³n de COVID-19",
+          "Bajada":"Junto a autoridades nacionales, los ministros intercambiaron opiniones con los equipos tÃ©cnicos que monitorean y analizan a diario el avance de la situaciÃ³n epidemiolÃ³gica del nuevo coronavirus en el paÃ­s.",
+          "Fecha":"20/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/santiago-cafiero-gines-gonzalez-garcia-y-wado-de-pedro-visitaron-sala-de-situacion-de-covid",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/20-03-20_ggg_wado_cafiero_sala_de_situacion_1.jpg"
+       },
+       {
+          "id":"7",
+          "titulo":"Â¿QuiÃ©nes quedan exceptuados del aislamiento social, preventivo y obligatorio?",
+          "Bajada":"Quedan exceptuadas del cumplimiento del â€œaislamiento social, preventivo y obligatorioâ€ y de la prohibiciÃ³n de circular, las personas afectadas a las actividades y servicios declarados esenciales en la emergencia, segÃºn se detalla a continuaciÃ³n, y sus desplazamientos deberÃ¡n limitarse al estricto cumplimiento de esas actividades y servicios:",
+          "Fecha":"20/03/2020",
+          "Link":"https://www.argentina.gob.ar/coronavirus/exceptuados-aislamiento-social-preventivo-obligatorio",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/coronavirus-facebook.jpg"
+       },
+       {
+          "id":"8",
+          "titulo":"Salud insta a los viajeros que regresan al paÃ­s a cumplir el aislamiento aunque no tengan sÃ­ntomas",
+          "Bajada":"La mayorÃ­a de los casos en Argentina estÃ¡n relacionados con viaje o con un contacto estrecho con viajeros. AdemÃ¡s es importante que la poblaciÃ³n limite las actividades a las esenciales para minimizar la transmisiÃ³n del virus SARS-CoV-2.",
+          "Fecha":"19/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/salud-insta-los-viajeros-que-regresan-al-pais-cumplir-el-aislamiento-aunque-no-tengan",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/19-03-20_rd2.jpg"
+       },
+       {
+          "id":"9",
+          "titulo":"Salud informa sobre el estado de situaciÃ³n epidemiolÃ³gica, acciones implementadas y recomendaciones sobre COVID-19",
+          "Bajada":"Durante la maÃ±ana autoridades sanitarias brindaron un informe detallado sobre el trabajo que se estÃ¡ llevando adelante en las distintas Ã¡reas para minimizar la transmisiÃ³n del virus SARS-CoV-2.",
+          "Fecha":"18/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/salud-informa-sobre-el-estado-de-situacion-epidemiologica-acciones-implementadas-y",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/18-03-20_informe_situacion_coronavirus2.jpg"
+       },
+       {
+          "id":"10",
+          "titulo":"No se registraron personas con sÃ­ntomas compatibles con COVID-19 en crucero proveniente de Brasil",
+          "Bajada":"Los equipos de salud que trabajaron desde esta maÃ±ana para evaluar el estado de salud de los 2900 pasajeros y tripulaciÃ³n realizaron exÃ¡menes de temperatura y entrevistas personalizadas. El crucero no quedarÃ¡ en cuarentena.",
+          "Fecha":"17/03/2020",
+          "Link":"https://www.argentina.gob.ar/noticias/no-se-registraron-personas-con-sintomas-compatibles-con-covid-19-en-crucero-proveniente-de",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/17-03-20_operativo_puerto_crucero1.jpg"
+       }
+    ],
+    "consejos":[
+       {
+          "id":"1",
+          "titulo":"QUEDATE EN CASA",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/quedateencasa.jpeg"
+       },
+       {
+          "id":"2",
+          "titulo":"Lavate bien las manos con jabÃ³n o alcohol en gel.",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/consejo01.png"
+       },
+       {
+          "id":"3",
+          "titulo":"TosÃ© o estornudÃ¡ sobre el pliegue de tu codo.",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/consejo02.png"
+       },
+       {
+          "id":"4",
+          "titulo":"No te lleves las manos a la cara.",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/consejo03.png"
+       },
+       {
+          "id":"5",
+          "titulo":"DesinfectÃ¡ los objetos que usÃ¡s con frecuencia.",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/consejo04.png"
+       },
+       {
+          "id":"6",
+          "titulo":"VentilÃ¡ bien los ambientes de tu casa.",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/consejo05.png"
+       },
+       {
+          "id":"7",
+          "titulo":"No compartas mate, valija ni otros objetos de uso personal.",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/consejo07.png"
+       },
+       {
+          "id":"8",
+          "titulo":"Si tenÃ©s sÃ­ntomas, quedate en tu casa y evitÃ¡ el contacto con otras personas.",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/consejo09.png"
+       },
+       {
+          "id":"9",
+          "titulo":"ConsultÃ¡ siempre la informaciÃ³n oficial.",
+          "Bajada":"",
+          "Fecha":"18/03/2020",
+          "Link":"",
+          "thumbnail":"https://www.argentina.gob.ar/sites/default/files/corona_app/consejo10.png"
+       }
+    ],
+    "parte_diario":[
+       {
+          "id":"1",
+          "titulo":"Salud difunde nuevas recomendaciones para minimizar la propagaciÃ³n del coronavirus COVID-19",
+          "Bajada":"bajada de la nota",
+          "Fecha":"13/03/2020",
+          "Link":"Link externo",
+          "thumbnail":"Url de imagen"
+       },
+       {
+          "id":"2",
+          "titulo":"Salud difunde nuevas recomendaciones para minimizar la propagaciÃ³n del coronavirus COVID-19",
+          "Bajada":"bajada de la nota",
+          "Fecha":"13/03/2020",
+          "Link":"Link externo",
+          "thumbnail":"Url de imagen"
+       },
+       {
+          "id":"3",
+          "titulo":"Salud difunde nuevas recomendaciones para minimizar la propagaciÃ³n del coronavirus COVID-19",
+          "Bajada":"bajada de la nota",
+          "Fecha":"13/03/2020",
+          "Link":"Link externo",
+          "thumbnail":"Url de imagen"
+       }
+    ]
+}

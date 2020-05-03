@@ -1,0 +1,201 @@
+[
+    {
+      "id": 0,
+      "province": "Ciudad Autónoma de Buenos Aires",
+      "path": "caba",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 1,
+      "province": "Buenos Aires",
+      "path": "buenos-aires",
+      "phones": [
+        "0221-425-5437",
+        "148"
+      ]
+    },
+    {
+      "id": 2,
+      "province": "Catamarca",
+      "path": "catamarca",
+      "phones": [
+        "0383-423-8872"
+      ]
+    },
+    {
+      "id": 3,
+      "province": "Chaco",
+      "path": "chaco",
+      "phones": [
+        "0800-444-0829"
+      ]
+    },
+    {
+      "id": 4,
+      "province": "Chubut",
+      "path": "chubut",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 5,
+      "province": "Córdoba",
+      "path": "cordoba",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 6,
+      "province": "Corrientes",
+      "path": "corrientes",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 7,
+      "province": "Entre Ríos",
+      "path": "entre-rios",
+      "phones": [
+        "0800-555-6549"
+      ]
+    },
+    {
+      "id": 8,
+      "province": "Formosa",
+      "path": "formosa",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 9,
+      "province": "Jujuy",
+      "path": "jujuy",
+      "phones": [
+        "0800-888-4767"
+      ]
+    },
+    {
+      "id": 10,
+      "province": "La Pampa",
+      "path": "la-pampa",
+      "phones": [
+        "02954619130",
+        "02954604986"
+      ]
+    },
+    {
+      "id": 11,
+      "province": "La Rioja",
+      "path": "la-rioja",
+      "phones": [
+        "107",
+        "911"
+      ]
+    },
+    {
+      "id": 12,
+      "province": "Mendoza",
+      "path": "mendoza",
+      "phones": [
+        "0800-800-26843"
+      ]
+    },
+    {
+      "id": 13,
+      "province": "Misiones",
+      "path": "misiones",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 14,
+      "province": "Neuquén",
+      "path": "neuquen",
+      "phones": [
+        "0-800-333-1002"
+      ]
+    },
+    {
+      "id": 15,
+      "province": "Río Negro",
+      "path": "rio-negro",
+      "phones": [
+        "911"
+      ]
+    },
+    {
+      "id": 16,
+      "province": "Salta",
+      "path": "salta",
+      "phones": [
+        "911",
+        "136"
+      ]
+    },
+    {
+      "id": 18,
+      "province": "San Juan",
+      "path": "san-juan",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 17,
+      "province": "San Luis",
+      "path": "san-luis",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 19,
+      "province": "Santa Cruz",
+      "path": "santa-cruz",
+      "phones": [
+        "107"
+      ]
+    },
+    {
+      "id": 20,
+      "province": "Santa Fe",
+      "path": "santa-fe",
+      "phones": [
+        "0800-555-6549"
+      ]
+    },
+    {
+      "id": 21,
+      "province": "Santiago del Estero",
+      "path": "santiago-del-estero",
+      "phones": [
+        "0385-421-3006",
+        "0385-523-7077"
+      ]
+    },
+    {
+      "id": 22,
+      "province": "Tierra del Fuego",
+      "path": "tierra-del-fuego",
+      "phones": [
+        "911",
+        "101"
+      ]
+    },
+    {
+      "id": 23,
+      "province": "Tucumán",
+      "path": "tucuman",
+      "phones": [
+        "0800-555-8478",
+        "wp: 0381-389-9025"
+      ]
+    }
+]

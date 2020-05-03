@@ -1,0 +1,28 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "Pruebas de corona-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "node_modules/.bin/cypress open",
+    "cy:run": "node_modules/.bin/cypress run",
+    "delete:reports": "rm cypress/results/* || true",
+    "delete:mocha": "rm -R mochawesome-report || true",
+    "delete:mochajson": "rm mochawesome.json || true",
+    "prereport": "npm run delete:reports && npm run delete:mocha && npm run delete:mochajson",
+    "report": "node_modules/.bin/cypress run || true"
+  },
+  "author": "Fernando J. Arroupé",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.2",
+    "cypress-multi-reporters": "^1.2.3",
+    "mocha": "^5.2.0",
+    "mocha-junit-reporter": "^1.23.3",
+    "mochawesome": "^4.1.0"
+  },
+  "dependencies": {
+    "mocha-junit-reporter": "^1.23.3"
+  }
+}

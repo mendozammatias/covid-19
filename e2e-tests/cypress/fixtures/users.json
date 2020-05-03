@@ -1,0 +1,26 @@
+[
+  {
+    "bodyTemperature": "37",
+    "age": "27",
+    "required": {
+      "dni": "23987654",
+      "email": "juanperuggia@gmail.com",
+      "phone": "1130495867"
+    },
+    "address": "Av.Corrientes",
+    "localidad": "Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires"
+  },
+  {
+    "bodyTemperature": "39",
+    "age": "22",
+    "required": {
+      "dni": "45999222",
+      "email": "juanperuggia@gmail.com",
+      "phone": "1130495867"
+    },
+    "address": "Larrea 45",
+    "localidad": "Buenos Aires",
+    "province": "Ciudad Autónoma de Buenos Aires"
+  }
+]
